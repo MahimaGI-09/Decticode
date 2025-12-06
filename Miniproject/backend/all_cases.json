@@ -1,0 +1,598 @@
+[
+  {
+    "case_id": "C001",
+    "title": "The Empty Apartment",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A 28-year-old designer mysteriously disappears from her apartment, leaving behind an unfinished message and traces of an intruder.",
+    "victim": {
+      "name": "Rhea Kapoor",
+      "age": 28,
+      "occupation": "UI/UX Designer"
+    },
+    "crime_scene": {
+      "location": "Rhea's rented flat, 5th floor",
+      "details": [
+        "Cup of coffee still warm",
+        "Half-typed message on laptop",
+        "Front door locked from outside",
+        "Phone found inside microwave",
+        "Men's footprint near balcony"
+      ]
+    },
+    "evidence": [
+      "Partial male footprint",
+      "Tall hooded figure on CCTV",
+      "Strand of red hair",
+      "Restored deleted Uber ride request",
+      "Suspect carrying a rolled carpet"
+    ],
+    "suspects": [
+      {
+        "name": "Varun Mehta",
+        "relation": "Ex-boyfriend",
+        "motive": "Breakup tension",
+        "notes": "Suspicious offline window during alibi"
+      },
+      {
+        "name": "Unknown Neighbor (Mr. X)",
+        "relation": "Neighbor",
+        "motive": "Victim suspected stalking",
+        "notes": "Identity unclear"
+      }
+    ],
+    "twist": "Maintenance cam shows suspect with rolled carpet but no carpets missing."
+  },
+  {
+    "case_id": "C002",
+    "title": "The Museum Job Gone Wrong",
+    "crime_type": "theft",
+    "severity_level": "High",
+    "summary": "A museum heist leads to a security guard's death and a stolen artifact.",
+    "victim": {
+      "name": "Anil Deshmukh",
+      "age": 45,
+      "occupation": "Security Guard"
+    },
+    "crime_scene": {
+      "location": "National Cultural Museum, South Wing",
+      "details": [
+        "Guard shot near display area",
+        "CCTV wiring cut cleanly",
+        "Artifact case drilled open",
+        "Glass dust and glue traces",
+        "Getaway bike without number plate"
+      ]
+    },
+    "evidence": [
+      "9mm hollow point bullet",
+      "Latex glove prints",
+      "Imported tactical boot footprint",
+      "Blueprint access logs",
+      "Drill-patterned glass hole"
+    ],
+    "suspects": [
+      {
+        "name": "Elena Kovač",
+        "relation": "Art thief",
+        "motive": "High-value artifact",
+        "notes": "Spotted in the country earlier"
+      },
+      {
+        "name": "Raghav Sharma",
+        "relation": "Technician",
+        "motive": "Large financial debt",
+        "notes": "Access to museum schematics"
+      }
+    ],
+    "twist": "Guard was unconscious before being shot, indicating a staged killing."
+  },
+  {
+    "case_id": "C003",
+    "title": "Dead Man in a Locked Cabin",
+    "crime_type": "homicide",
+    "severity_level": "Mid-High",
+    "summary": "A travel vlogger dies of cyanide poisoning inside a locked cabin.",
+    "victim": {
+      "name": "Krish Malhotra",
+      "age": 32,
+      "occupation": "Travel Vlogger"
+    },
+    "crime_scene": {
+      "location": "Remote cabin, Himachal Pradesh",
+      "details": [
+        "Door locked from inside",
+        "Windows sealed",
+        "Camera recording",
+        "Fireplace burning oddly",
+        "Chemical smell present"
+      ]
+    },
+    "evidence": [
+      "Cyanide poisoning",
+      "Last video clip with static",
+      "Footprints ending outside cabin",
+      "Torn diary page",
+      "Cyanide on fireplace poker"
+    ],
+    "suspects": [
+      {
+        "name": "Aarti",
+        "relation": "Manager",
+        "motive": "Insurance payout",
+        "notes": "Full schedule access"
+      },
+      {
+        "name": "Explorer_99",
+        "relation": "Online stalker",
+        "motive": "Obsessive behavior",
+        "notes": "Last spotted near cabin area"
+      }
+    ],
+    "twist": "Poison vaporized via fireplace — method suggests expertise."
+  },
+  {
+    "case_id": "C004",
+    "title": "The Highway Burnout",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A burnt car contains a body that isn't the car owner's.",
+    "victim": {
+      "name": "Unknown (Construction Worker)",
+      "age": 35,
+      "occupation": "Construction Employee"
+    },
+    "crime_scene": {
+      "location": "Highway outskirts, Pune",
+      "details": [
+        "Car burned except rear tires",
+        "Ethanol-kerosene accelerant",
+        "Victim tied with zip ties",
+        "Broken GPS jammer",
+        "Red soil on shoes"
+      ]
+    },
+    "evidence": [
+      "Two ignition points",
+      "Fingerprint from 2018 fraud suspect",
+      "Soil linked to construction site",
+      "Car not reported stolen",
+      "Dental record match"
+    ],
+    "suspects": [
+      {
+        "name": "Aditi Rao",
+        "relation": "Car Owner",
+        "motive": "Unknown",
+        "notes": "Failed to file theft report"
+      },
+      {
+        "name": "Unnamed Contractor",
+        "relation": "Employer",
+        "motive": "Employee dispute",
+        "notes": "Construction site soil matches victim shoes"
+      }
+    ],
+    "twist": "Victim identified as missing employee; likely embezzlement cover-up."
+  },
+  {
+    "case_id": "C005",
+    "title": "The Rooftop Message",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A journalist falls from a rooftop, but clues suggest staged suicide.",
+    "victim": {
+      "name": "Sneha Iyer",
+      "age": 26,
+      "occupation": "Journalist"
+    },
+    "crime_scene": {
+      "location": "Office rooftop",
+      "details": [
+        "Typed suicide note",
+        "Destroyed CCTV camera",
+        "Chalk dust on shoes",
+        "Fall point mismatch"
+      ]
+    },
+    "evidence": [
+      "Access card restricted entry",
+      "Chalk dust from climbing gym",
+      "Draft article on corrupt politician",
+      "Deleted chat: 'Meet me on the roof'"
+    ],
+    "suspects": [
+      {
+        "name": "Unnamed Politician",
+        "relation": "Subject of investigation",
+        "motive": "Expose avoidance",
+        "notes": "Large stakes involved"
+      },
+      {
+        "name": "Chief Editor",
+        "relation": "Manager",
+        "motive": "Editorial disputes",
+        "notes": "Had conflicts with victim"
+      }
+    ],
+    "twist": "Trajectory indicates she was pushed sideways, not from the edge."
+  },
+  {
+    "case_id": "C006",
+    "title": "Train Seat 42A",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A man dies mysteriously on a train without anyone noticing.",
+    "victim": {
+      "name": "Rajiv Sen",
+      "age": 49,
+      "occupation": "Chartered Accountant"
+    },
+    "crime_scene": {
+      "location": "Train coach B3, seat 42A",
+      "details": [
+        "Found dead in seat",
+        "Coffee spilled",
+        "Audio whisper in earphones",
+        "Briefcase missing"
+      ]
+    },
+    "evidence": [
+      "Poison injected behind ear",
+      "Last-minute coach change",
+      "Gloved print on window",
+      "Briefcase dumped in another coach"
+    ],
+    "suspects": [
+      {
+        "name": "Assistant",
+        "relation": "Work subordinate",
+        "motive": "Financial benefit",
+        "notes": "On same train"
+      },
+      {
+        "name": "Business Partner",
+        "relation": "Colleague",
+        "motive": "Fraud investigation",
+        "notes": "Had disputes"
+      }
+    ],
+    "twist": "Killer injected victim while merely walking past."
+  },
+  {
+    "case_id": "C007",
+    "title": "The Locked Basement",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A missing teenager is found in a locked basement with strange clues.",
+    "victim": {
+      "name": "Arjun Verma",
+      "age": 17,
+      "occupation": "Student"
+    },
+    "crime_scene": {
+      "location": "Vacant house basement",
+      "details": [
+        "Door locked inside",
+        "Dust-free rectangle mark",
+        "Numbers scratched: '742'",
+        "Fresh food wrappers"
+      ]
+    },
+    "evidence": [
+      "Rare marsh pollen on shoes",
+      "Broken bracelet bead",
+      "Food wrappers dated 3 days",
+      "Storage unit linked to numbers"
+    ],
+    "suspects": [
+      {
+        "name": "Best Friend",
+        "relation": "Close contact",
+        "motive": "Unknown tension",
+        "notes": "Bracelet bead match"
+      },
+      {
+        "name": "Marshland Owner",
+        "relation": "Local resident",
+        "motive": "Territorial issues",
+        "notes": "Nearby property"
+      }
+    ],
+    "twist": "Numbers correspond to a rented storage unit under fake identity."
+  },
+  {
+    "case_id": "C008",
+    "title": "Midnight Caller",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A YouTuber vanishes mid-stream after checking the door.",
+    "victim": {
+      "name": "Varun Pillai",
+      "age": 30,
+      "occupation": "Tech YouTuber"
+    },
+    "crime_scene": {
+      "location": "Victim's apartment",
+      "details": [
+        "Chair overturned",
+        "Webcam unplugged",
+        "Empty delivery box",
+        "Oily generator smell"
+      ]
+    },
+    "evidence": [
+      "Industrial boot prints",
+      "Delivery label printed from victim's printer",
+      "Clock time manipulated",
+      "Toolbox-carrying stranger spotted"
+    ],
+    "suspects": [
+      {
+        "name": "Rival YouTuber",
+        "relation": "Competitor",
+        "motive": "Professional jealousy",
+        "notes": "Ongoing feud"
+      },
+      {
+        "name": "Ex-employee",
+        "relation": "Former staff",
+        "motive": "Revenge",
+        "notes": "Stole passwords"
+      }
+    ],
+    "twist": "Delivery signature matches victim's own handwriting."
+  },
+  {
+    "case_id": "C009",
+    "title": "The Forest Gate",
+    "crime_type": "homicide",
+    "severity_level": "Mid-High",
+    "summary": "A teacher is found dead in an abandoned forest temple surrounded by strange symbols.",
+    "victim": {
+      "name": "Latha Nair",
+      "age": 38,
+      "occupation": "Teacher"
+    },
+    "crime_scene": {
+      "location": "Abandoned forest shrine",
+      "details": [
+        "Chalk symbols around body",
+        "No candles but melted wax",
+        "Watch stopped at 2:14 AM",
+        "Rope fibers under nails"
+      ]
+    },
+    "evidence": [
+      "Symbols match student drawings",
+      "Wax contains perfume chemicals",
+      "Phone ping from 2 km away",
+      "Piece of ID stuck to bracelet"
+    ],
+    "suspects": [
+      {
+        "name": "Troubled Student",
+        "relation": "Pupil",
+        "motive": "Obsession",
+        "notes": "Drew similar symbols"
+      },
+      {
+        "name": "Ex-husband",
+        "relation": "Former spouse",
+        "motive": "Personal conflict",
+        "notes": "Restraining history"
+      }
+    ],
+    "twist": "Smartwatch recorded her running shortly before death."
+  },
+  {
+    "case_id": "C010",
+    "title": "The Van Behind the School",
+    "crime_type": "assault",
+    "severity_level": "High",
+    "summary": "A pilot is found tied inside a van behind a school — alive but unconscious.",
+    "victim": {
+      "name": "Captain Aditya Rao",
+      "age": 43,
+      "occupation": "Airline Pilot"
+    },
+    "crime_scene": {
+      "location": "School backyard",
+      "details": [
+        "Chloroform bottle",
+        "Printed directions to abandoned airstrip",
+        "Aviation-style rope knot",
+        "GPS multiple suspicious stops"
+      ]
+    },
+    "evidence": [
+      "Stolen van",
+      "Torn pilot logbook",
+      "GPS airstrip route",
+      "Fingerprint-required hangar"
+    ],
+    "suspects": [
+      {
+        "name": "Expelled Trainee Pilot",
+        "relation": "Former colleague",
+        "motive": "Revenge",
+        "notes": "Angry outbursts recorded"
+      },
+      {
+        "name": "Unknown Woman",
+        "relation": "Seen arguing",
+        "motive": "Unknown",
+        "notes": "Not yet identified"
+      }
+    ],
+    "twist": "Victim mutters that his fingerprint was needed for the hangar."
+  },
+  {
+    "case_id": "C011",
+    "title": "The Hotel Room of Mirrors",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A marketing director is found in a luxury hotel room surrounded by mirrors aligned toward the door.",
+    "victim": {
+      "name": "Shalini Basu",
+      "age": 34,
+      "occupation": "Marketing Director"
+    },
+    "crime_scene": {
+      "location": "Five-star hotel suite",
+      "details": [
+        "Mirrors angled strategically",
+        "Broken window latch",
+        "TV static",
+        "Single red rose"
+      ]
+    },
+    "evidence": [
+      "Unmatched fingerprints on vase",
+      "Magnesium dust on door",
+      "Keycard used at 3:11 AM",
+      "Untouched room service tray"
+    ],
+    "suspects": [
+      {
+        "name": "Coworker",
+        "relation": "Professional rival",
+        "motive": "Jealousy",
+        "notes": "Frequent disputes"
+      },
+      {
+        "name": "Stalker 'R'",
+        "relation": "Unknown admirer",
+        "motive": "Obsession",
+        "notes": "Signed letters as 'R'"
+      }
+    ],
+    "twist": "Magnesium dust reveals no one entered after her death — killer staged entry logs."
+  },
+  {
+    "case_id": "C012",
+    "title": "The Beach Footprints",
+    "crime_type": "homicide",
+    "severity_level": "Mid-High",
+    "summary": "A body washes ashore with footprints leading toward the sea — not away.",
+    "victim": {
+      "name": "Unknown Male",
+      "age": 30,
+      "occupation": "Unidentified"
+    },
+    "crime_scene": {
+      "location": "Coastal shoreline",
+      "details": [
+        "Footprints leading into sea",
+        "Dry clothing",
+        "Broken wristwatch with sand",
+        "Wallet with cash but no ID"
+      ]
+    },
+    "evidence": [
+      "Foreign sand type",
+      "Size 44 European shoe prints",
+      "Unused train ticket",
+      "Puncture mark on neck"
+    ],
+    "suspects": [
+      {
+        "name": "Missing Tourist",
+        "relation": "Hotel guest",
+        "motive": "Unknown",
+        "notes": "Disappeared same night"
+      },
+      {
+        "name": "Smuggler Group",
+        "relation": "Criminal network",
+        "motive": "Illicit operations",
+        "notes": "Coast activity reported"
+      }
+    ],
+    "twist": "Footprints belong to another person — not the victim."
+  },
+  {
+    "case_id": "C013",
+    "title": "Room 209's Final Call",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A businessman dies in a hotel room, but his phone keeps repeatedly dialing a deactivated number.",
+    "victim": {
+      "name": "Nitin Suryavanshi",
+      "age": 41,
+      "occupation": "Export Trader"
+    },
+    "crime_scene": {
+      "location": "Hotel Room 209",
+      "details": [
+        "Curtains ripped",
+        "Burnt plastic smell",
+        "Phone auto-dialing number",
+        "Encrypted laptop files"
+      ]
+    },
+    "evidence": [
+      "Deactivated SIM briefly reactivated",
+      "Burn marks on fingertips",
+      "Shoeprints leading toward fire escape",
+      "Shipment B2 encrypted files"
+    ],
+    "suspects": [
+      {
+        "name": "Rival Trader",
+        "relation": "Business enemy",
+        "motive": "Market rivalry",
+        "notes": "Legal disputes ongoing"
+      },
+      {
+        "name": "Dismissed Employee",
+        "relation": "Former worker",
+        "motive": "Revenge",
+        "notes": "History of theft"
+      }
+    ],
+    "twist": "SIM was active only for 20 minutes during the crime window."
+  },
+  {
+    "case_id": "C014",
+    "title": "The Warehouse Echo",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A stock manager is found dead behind warehouse crates after reports of hearing mysterious echoes.",
+    "victim": {
+      "name": "Mahesh Rathod",
+      "age": 52,
+      "occupation": "Stock Manager"
+    },
+    "crime_scene": {
+      "location": "Logistics warehouse",
+      "details": [
+        "Body between crates",
+        "Walkie-talkie transmitting static",
+        "Crates rearranged into a path",
+        "Dragging marks on floor"
+      ]
+    },
+    "evidence": [
+      "Unauthorized forklift use logs",
+      "Former employee fingerprints",
+      "Zig-zag dust patterns",
+      "Fabric from expensive jacket"
+    ],
+    "suspects": [
+      {
+        "name": "Former Warehouse Worker",
+        "relation": "Ex-employee",
+        "motive": "Workplace resentment",
+        "notes": "Terminated earlier"
+      },
+      {
+        "name": "Rival Logistics Firm",
+        "relation": "Business competitor",
+        "motive": "Sabotage",
+        "notes": "Past conflict"
+      }
+    ],
+    "twist": "Walkie-talkie reveals two whispering voices giving coordinates."
+  }
+]

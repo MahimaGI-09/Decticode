@@ -1,0 +1,46 @@
+[
+  {
+    "case_id": "C001",
+    "title": "The Empty Apartment",
+    "crime_type": "homicide",
+    "severity_level": "High",
+    "summary": "A 28-year-old designer mysteriously disappears from her apartment, leaving behind an unfinished message and traces of an intruder.",
+    "victim": {
+      "name": "Rhea Kapoor",
+      "age": 28,
+      "occupation": "UI/UX Designer"
+    },
+    "crime_scene": {
+      "location": "Rhea's rented flat, 5th floor",
+      "details": [
+        "Cup of coffee still warm",
+        "Half-typed message on laptop",
+        "Front door locked from outside",
+        "Phone found inside microwave",
+        "Men's footprint near balcony"
+      ]
+    },
+    "evidence": [
+      "Partial male footprint",
+      "Tall hooded figure on CCTV",
+      "Strand of red hair",
+      "Restored deleted Uber ride request",
+      "Suspect carrying a rolled carpet"
+    ],
+    "suspects": [
+      {
+        "name": "Varun Mehta",
+        "relation": "Ex-boyfriend",
+        "motive": "Breakup tension",
+        "notes": "Suspicious offline window during alibi"
+      },
+      {
+        "name": "Unknown Neighbor (Mr. X)",
+        "relation": "Neighbor",
+        "motive": "Victim suspected stalking",
+        "notes": "Identity unclear"
+      }
+    ],
+    "twist": "Maintenance cam shows suspect with rolled carpet but no carpets missing."
+  }
+]
